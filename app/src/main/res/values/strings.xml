@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birth_date">Date Of Birth</string>
+    <string name="rules_header">Rules</string>
+    <string name="rules_body">The rules:\n
+    \n1. Some answers will be multiple choice, some will be choose-correct-answers.\n
+    \n2. You will be asked to confirm your answer, then it will be submitted. Choose wisely!\n
+    \n3. For the choose-all-correct answers, you must choose ALL correct answers to earn a point.\n
+    \n4. When in doubt, choose C.</string>
+    <string name="start_game">Start Game</string>
+    <string name="score">Score:</string>
+    <string name="final_score">Final Score:</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="lets_play">Let\'s Play!</string>
+    <string name="submit">Submit</string>
+
+    <string name="question_1">What is 1 + 1?</string>
+    <string name="question_2">Complete the sentence:\n
+    \nThe quick brown fox jumps over the lazy...</string>
+    <string name="question_3">How many sides does a heptagon have?</string>
+    <string name="question_4">Choose all numbers that are multiples of 4.</string>
+    <string name="question_5">Choose all former emperors of the Byzantine Empire.</string>
+</resources>
